@@ -1,0 +1,9 @@
+---
+baseURL: ""
+languageCode: "en-us"
+title: "My New Hugo Site"
+relativeURLs: true
+uglyURLs: true
+canonifyURLs: true
+theme: hugo_theme_robust
+---
